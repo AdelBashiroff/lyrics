@@ -1,0 +1,31 @@
+.one {
+    text-align: center;
+    color: white;
+}
+.second {
+    text-align: center;
+    color: red;
+}
+.third {
+    color: red;
+    text-align: center;
+}
+body {
+    background-color: black;
+    background-image: url(2B6B4B25-18BD-4750-9056-7C07A55D017C.jpeg);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-attachment: scroll;
+    background-size: cover;
+}
+video {
+    width: 500px;
+    margin-left: 455px;
+    margin-top: 50px;
+}
+pre {
+    margin-right: 145px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
